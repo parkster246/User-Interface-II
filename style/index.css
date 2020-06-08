@@ -213,23 +213,17 @@ header {
     display:flex;
     flex-wrap:wrap;
     width:100%;
-    height:40vh;
+    height:100%;
     
 }
 .project-pics{
     display:flex;
     flex-direction:row;
     flex-wrap:wrap;
+    height:100%;
 }
 .project-pics img{
     min-width:50%;
-}
-
-}
-.project-info p{
-    width:90%;
-    display:flex;
-
 }
 
 }
